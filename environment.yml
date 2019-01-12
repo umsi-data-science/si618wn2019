@@ -1,0 +1,9 @@
+name: umsi-data-science-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip:
+    - pandas
+    - matplotlib
